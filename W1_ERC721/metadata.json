@@ -1,0 +1,20 @@
+{
+    "description": "ERC721 BCtest",
+    "external_url": "https://footium.club/ethereum/clubs/541",
+    "image": "https://ipfs.filebase.io/ipfs/QmXx8xy4s5EhDUBP6fmY88qwoj1Mb3Rk5QeVpgW8rCCKeQ",
+    "name": "BC Token Holder",
+    "attributes": [
+        {
+            "trait_type": "Season",
+            "value": "22/23"
+        },
+        {
+            "trait_type": "Personal Image",
+            "value": "Yes"
+        },
+        {
+            "trait_type": "Lion Love",
+            "value": "Extraordinary"
+        }
+    ]
+}
